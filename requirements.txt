@@ -1,0 +1,20 @@
+# VoiceStudio_CF Dependencies
+# Cài đặt PyTorch với CUDA (NVIDIA GPU):
+# pip install torch torchaudio --index-url https://download.pytorch.org/whl/cu128
+
+PySide6>=6.7.0
+torch>=2.4.0
+torchaudio>=2.4.0
+transformers>=5.3.0
+accelerate>=0.26.0
+numpy>=1.26.0
+soundfile>=0.12.1
+librosa>=0.10.0
+pydub>=0.25.1
+scipy>=1.11.0
+tqdm>=4.66.0
+huggingface-hub>=0.23.0
+webdataset>=0.2.86
+tensorboardX>=2.6.0
+requests>=2.31.0
+pytest>=8.0.0
